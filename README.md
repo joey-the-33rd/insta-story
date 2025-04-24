@@ -23,4 +23,14 @@ Copyright (c) 2019 Baran
 
 ---
 
+## Notes and Limitations
+
+- This project relies on a manually exported Instagram cookie via the Chrome extension "cookies.txt". You must update the cookie weekly for the tool to work.
+- Instagram may change their page structure or API at any time, which can break this tool.
+- No automated cookie refresh or validation is implemented.
+- Input usernames are sanitized but use caution when deploying publicly to avoid security risks.
+- The tool does not handle private or restricted Instagram accounts.
+- Use responsibly and be aware of Instagram's terms of service.
+- This is a research project and provided as-is without warranty.
+
 > **Disclaimer**<a name="disclaimer" />: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool.
